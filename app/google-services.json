@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070949684263",
+    "project_id": "cosmo-book",
+    "storage_bucket": "cosmo-book.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070949684263:android:5e0b3247d4d0d30c96aa02",
+        "android_client_info": {
+          "package_name": "com.example.cosmobook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070949684263-6kr9haca9o2klu85tv2quje1lekt4kgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWYOUVGfq-bGcNq0snh1056GixH0vVEjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070949684263-6kr9haca9o2klu85tv2quje1lekt4kgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
